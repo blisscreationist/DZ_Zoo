@@ -1,0 +1,23 @@
+{
+    "animals": [
+        [
+            "Попугай",
+            3,
+            "Bird"
+        ],
+        [
+            "Тигр",
+            5,
+            "Mammal"
+        ],
+        [
+            "Питон",
+            2,
+            "Reptile"
+        ]
+    ],
+    "employees": [
+        "ZooKeeper",
+        "Veterinarian"
+    ]
+}
